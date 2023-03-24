@@ -1,5 +1,5 @@
 # About My Writing
-These written samples derive from class workshops and personal experience. These works catergorize into the four documentation types:
+My written samples derive from class workshops and personal experience. These works catergorize into the four documentation types:
 ## Writing Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
