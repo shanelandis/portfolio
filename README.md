@@ -1,5 +1,5 @@
 # About My Writing
-Blah
+These samples consist of works from class workshops and personal experience.
 ## Documentation Type
 Blah
 ## Writing Samples
