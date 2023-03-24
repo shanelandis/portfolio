@@ -1,7 +1,5 @@
 # About My Writing
-These samples consist of works from class workshops and personal experience.
-## Documentation Type
-Blah
+These written samples derive from class workshops and personal experience. They consist of a variety of documentation types, such as 
 ## Writing Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
