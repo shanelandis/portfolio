@@ -1,5 +1,5 @@
 # About My Writing
-My written samples derive from class workshops and personal experience. The following works catergorize into four documentation types: tutorial, how-to, reference, and explanation.
+My written samples derive from class workshops and personal experience. The following works catergorize into three documentation types: tutorial, how-to, and explanation.
 ## Writing Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
