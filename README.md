@@ -1,5 +1,5 @@
 # About My Writing
-My written samples derive from class workshops and personal experience. The following works catergorize into three documentation types: email, blog, and advertisement.
+My written samples derive from class workshops and personal experience. The following works catergorize into three types: email, blog, and advertisement.
 ## Writing Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
