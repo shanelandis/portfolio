@@ -3,6 +3,6 @@ My written samples derive from class workshops and personal experience. The foll
 ## Writing Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
-| [Launchat Events](https://github.com/shanelandis/portfolio/blob/main/Example%20Email.jpg) | Email | Provides a breakdown of QR codes and their use. This document's audience is nonspecialists who do not have an understanding of QR codes.
-| [Why Your Brand Needs a Unique Voice](https://github.com/shanelandis/portfolio/blob/main/blog.md) | Blog | Provides steps for creating files from your local computer and uploading them to your remote GitHub repository. The audience for this document is experts who need a quick rundown on using Git to create and upload files to their remote GitHub repository. I followed some of the concepts for writing procedures and documenting code syntax from Google's developer documentation style guide.
-| [Travel Ad](https://github.com/shanelandis/portfolio/blob/main/Example%20Advertisement.jpg) | Advertisement | Describes the user interface (UI) elements of the DEV website homepage, a social media platform for software developers. The audience for this document is DEV community members new to using the DEV website. To create this document, I used the [The Good Docs Project's]() reference template.|
+| [Launchat Events](https://github.com/shanelandis/portfolio/blob/main/Example%20Email.jpg) | Email | A sample email from a made-up company called Launchat that highlights activities throughout the week.
+| [Why Your Brand Needs a Unique Voice](https://github.com/shanelandis/portfolio/blob/main/blog.md) | Blog | A post outlining the differing ways someone can implement voice into their brand, culminating into an advertisement for the fake company LoyalQ.
+| [Travel Ad](https://github.com/shanelandis/portfolio/blob/main/Example%20Advertisement.jpg) | Advertisement | A travel ad made in my course Implementing Writing and Design.
