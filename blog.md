@@ -7,10 +7,10 @@ From Airbnb’s personal and approachable tone to LEGO’s imagination-focused a
 1.	Crafting Brand Vocabulary
 Having your own lexicon gives your consumers words to remember your brand by. If you think of iPhone and iPad or “just do it,” most people know which brands these phrases originate from. Similarly, you can create your own phrases or words for people to associate your brand with. There’s multiple ways to brainstorm a new brand lexicon:
 
-1.	Analyze your audience
-2.	Experiment with wordplay
-3.	Create a board with new ideas
-4.	Review how your brand changed since its inception
+- Analyze your audience
+- Experiment with wordplay
+- Create a board with new ideas
+- Review how your brand changed since its inception
 
 2.	Personifying Your Brand
 Identifying an audience is the easy part of figuring out your brand voice, but knowing how to speak to this audience is what’s difficult. The most important thing in figuring out your voice is giving your voice relatable and memorable traits, such as a witty, serious, or friendly persona.  Eliciting emotions that align with your brand’s values gives the consumer one extra reason to pick you over competitors.
