@@ -6,7 +6,7 @@ When it comes to the connections between businesses and consumers, they start te
 From Airbnb’s personal and approachable tone to LEGO’s imagination-focused advertisements, many brands focus on creating a distinctive voice. Here are a few ways to develop your own:
 ###
 
-1.	Craft Brand Vocabulary
+###1.	Craft Brand Vocabulary
 
 Having your own lexicon gives your consumers words to remember your brand by. If you think of iPhone and iPad or “just do it,” most people know which brands these phrases originate from. Similarly, you can create your own phrases or words for people to associate your brand with. There’s multiple ways to brainstorm a new brand lexicon:
 
@@ -16,12 +16,12 @@ Having your own lexicon gives your consumers words to remember your brand by. If
 - Review how your brand changed since its inception
 ###
 
-2.	Personify Your Brand
+###2.	Personify Your Brand
 
 Identifying an audience is the easy part of figuring out your brand voice, but knowing how to speak to this audience is what’s difficult. The most important thing in figuring out your voice is giving your voice relatable and memorable traits, such as a witty, serious, or friendly persona.  Eliciting emotions that align with your brand’s values gives the consumer one extra reason to pick you over competitors.
 ###
 
-3.	Actively Adjust for Separate Audiences
+###3.	Actively Adjust for Separate Audiences
 
 Shifting voices between audiences is your greatest asset. People want to feel a connection with your brand, and the best way to accomplish that is through appealing to the way they speak.
 
