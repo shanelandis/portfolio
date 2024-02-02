@@ -15,7 +15,7 @@ Having your own lexicon gives your consumers words to remember your brand by. If
 2.	Personifying Your Brand
 Identifying an audience is the easy part of figuring out your brand voice, but knowing how to speak to this audience is what’s difficult. The most important thing in figuring out your voice is giving your voice relatable and memorable traits, such as a witty, serious, or friendly persona.  Eliciting emotions that align with your brand’s values gives the consumer one extra reason to pick you over competitors.
 
-3.	Actively Adjusting for Separate Audiences
+4.	Actively Adjusting for Separate Audiences
 Shifting voices between audiences is your greatest asset. People want to feel a connection with your brand, and the best way to accomplish that is through appealing to the way they speak.
 
 An example is Duolingo, who changes their voice between their media platforms. Their TikTok page, which appeals to Gen Z, is socially conscious, energetic, and witty so they garner downloads for their platform. On the other hand, their Facebook page, which appeals to the older generations, is personal, clear, and community-oriented. Figuring out these audiences and attracting them through your tone is a great way to build brand recognition. 
