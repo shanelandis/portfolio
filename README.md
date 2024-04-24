@@ -1,4 +1,4 @@
-# About My Writing
+# About My Work
 My written and UI/UX samples derive from class workshops and personal experience.
 ## Writing Samples
 | Document | Documentation type | Description |
