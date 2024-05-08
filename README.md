@@ -1,5 +1,5 @@
 # About My Work
-My written and UI/UX samples derive from class workshops and personal experience.
+My written samples derive from class workshops and personal experience.
 ## Copywriting Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
