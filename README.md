@@ -4,7 +4,7 @@ My written samples derive from class workshops and personal experience. They con
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
 | [Uber Eats Heuristic Evaluation Report](https://docs.google.com/document/d/1i6SD8MNGjWHJWWksx_6xdJlSww3QcWAexd72gpvMncY/edit?usp=sharing) | Report | A heuristic evaluation of Uber Eats website conducted during a UI/UX Usability Testing course.
-| [Pitt Tuition Heuristic Evaluation Report](https://docs.google.com/document/d/1HG8QZ55k2fZOLWoEqxSSTPJ09XSYKz8d3sgjZCNS298/edit?usp=sharing) | Report | Working with a client, another student and I conducted a report of our university's tuition website, which culminated with us giving a presentation to the client on our findings.
+| [Pitt Tuition Heuristic Evaluation Report](https://docs.google.com/document/d/1HG8QZ55k2fZOLWoEqxSSTPJ09XSYKz8d3sgjZCNS298/edit?usp=sharing) | Report | A peer and I conducted a report of our university's tuition website, which culminated with us giving a presentation to the client on our findings.
 ## Copywriting Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
