@@ -1,6 +1,6 @@
 # About My Work
 My written samples derive from class workshops and personal experience. They contain varying documentation for end user consumption.
-## UI/UX Samples
+## Technical Writing Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
 | [Uber Eats Heuristic Evaluation Report](https://docs.google.com/document/d/1i6SD8MNGjWHJWWksx_6xdJlSww3QcWAexd72gpvMncY/edit?usp=sharing) | Report | A heuristic evaluation of Uber Eats website conducted during a UI/UX Usability Testing course.
