@@ -1,5 +1,5 @@
 # About My Work
-My written samples derive from class workshops and personal experience. They encapsulate varying documentation intended for end user consumption.
+My written samples derive from class workshops and personal experience. They contain varying documentation for end user consumption.
 ## UI/UX Samples
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
